@@ -2,7 +2,7 @@
 
 ### How to run the program
 1. Clone the repository
-2. ls into the project folder
+2. ```ls``` into the project folder
 3. Compile with ```gcc -o ctf ctf.c``` (local setup might be necessary)
 4. Run with ```./ctf```
 
