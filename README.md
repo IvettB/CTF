@@ -1,4 +1,4 @@
-# CTF Challenge Project 
+# Candy Stash 
 
 ### How to run the program
 1. Clone the repository
