@@ -25,3 +25,6 @@ Check out hint1.txt and hint2.txt for a nudge in the right direction.
 
 ### Difficulty level
 Easy
+
+### Notes
+Please note this CTF project is a work in progress. Currently, the flag can be found in plaintext in the code. I'm working on moving it into an encrypted file. Until then, the goal is to print the flag to the console.
