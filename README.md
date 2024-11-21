@@ -22,3 +22,6 @@ Rev/Pwn
 ### Hints
 Feeling a little lost in the candy maze? 🍬 No problem!
 Check out hint1.txt and hint2.txt for a nudge in the right direction.
+
+### Level
+Easy
