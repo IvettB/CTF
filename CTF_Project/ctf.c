@@ -4,7 +4,7 @@
 // Function to print the flag
 void flag() {
   printf("Congratulations! You've found the secret stash flag!\n");
-  printf("FLAG{C4ndy_Cr4sh_0verfl0w_D3l1ght}");
+  printf("itc101{C4ndy_Cr4sh_0verfl0w_D3l1ght}");
 }
 
 // VIP function
